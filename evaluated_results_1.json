@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Where do penguins live?",
+        "expected_answer": "Penguins live in the Southern Hemisphere, including Antarctica, South America, southern Africa, and the Galapagos Islands.",
+        "actual_answer": "Penguins live in the Southern Hemisphere, ranging from the icy coasts of Antarctica to the cool shores of South America and southern Africa, and even as far north as the Galapagos Islands near the equator.",
+        "context": [
+            "Penguins are flightless seabirds that are specially adapted for life in the Southern Hemisphere. \nAlthough people often associate them only with Antarctica, penguins live in a wide range of \nenvironments, including the icy coasts of Antarctica, the cool shores of South America and \nsouthern Africa, and even the Galapagos Islands near the equator. Their upright posture, \ncompact bodies, and distinctive black-and-white coloring make them among the most \nrecognizable birds in the world.",
+            "Penguin diets vary by species and location, but most feed on marine animals. Small species may \nrely heavily on krill and tiny fish, while larger penguins can pursue bigger fish and squid. They \nhunt by sight and can dive repeatedly during a feeding trip. Some penguins stay relatively close \nto shore, whereas others travel many kilometers in search of productive feeding areas."
+        ],
+        "answer_relevancy": 1.0,
+        "faithfulness": 1.0,
+        "contextual_relevancy": 0.2857142857142857,
+        "correctness": 1.0
+    },
+    {
+        "question": "Why can't penguins fly?",
+        "expected_answer": "Penguins have wings that evolved into strong, stiff flippers adapted for swimming rather than flying.",
+        "actual_answer": "Penguins can't fly because their wings have evolved into strong, stiff flippers that are built for swimming rather than for aerial flight.",
+        "context": [
+            "Unlike flying birds, penguins have wings that evolved into strong, stiff flippers. These flippers act \nalmost like paddles, allowing penguins to move through water with remarkable speed and \ncontrol. Their streamlined bodies reduce drag, while their feet and tails help with steering. In the \nocean, a penguin can twist, dive, and accelerate in ways that make it look as if it is flying \nunderwater.",
+            "Penguins are flightless seabirds that are specially adapted for life in the Southern Hemisphere. \nAlthough people often associate them only with Antarctica, penguins live in a wide range of \nenvironments, including the icy coasts of Antarctica, the cool shores of South America and \nsouthern Africa, and even the Galapagos Islands near the equator. Their upright posture, \ncompact bodies, and distinctive black-and-white coloring make them among the most \nrecognizable birds in the world."
+        ],
+        "answer_relevancy": 1.0,
+        "faithfulness": 1.0,
+        "contextual_relevancy": 0.7142857142857143,
+        "correctness": 1.0
+    },
+    {
+        "question": "How do penguins move through the water?",
+        "expected_answer": "Penguins use their flippers like paddles, while their feet and tails help them steer.",
+        "actual_answer": "Penguins move through water by using their strong, stiff flippers—modified wings—that act like paddles. Their streamlined bodies reduce drag, and their feet and tails assist with steering, allowing them to twist, dive, and accelerate as if they are flying underwater.",
+        "context": [
+            "Unlike flying birds, penguins have wings that evolved into strong, stiff flippers. These flippers act \nalmost like paddles, allowing penguins to move through water with remarkable speed and \ncontrol. Their streamlined bodies reduce drag, while their feet and tails help with steering. In the \nocean, a penguin can twist, dive, and accelerate in ways that make it look as if it is flying \nunderwater.",
+            "Penguins are also well insulated against cold water. Many species have a thick layer of fat \nbeneath the skin and densely packed feathers that trap air close to the body. Penguins regularly \npreen their feathers to keep them waterproof and properly aligned. This combination of fat, \nfeathers, and trapped air helps them conserve heat while spending long periods swimming in \nchilly seas."
+        ],
+        "answer_relevancy": 1.0,
+        "faithfulness": 1.0,
+        "contextual_relevancy": 0.5555555555555556,
+        "correctness": 1.0
+    }
+]

@@ -1,0 +1,1 @@
+{"experiment_name": "experiment_v1_k3", "retriever_k": 3, "total_test_cases": 3, "answer_relevancy": 1.0, "faithfulness": 1.0, "context_relevancy": 0.351, "correctness": 1.0, "pass_rates": {"answer_relevancy": 100.0, "faithfulness": 100.0, "contextual_relevancy": 0.0, "correctness": 100.0}}
