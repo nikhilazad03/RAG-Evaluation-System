@@ -2,6 +2,8 @@
 
 An end-to-end evaluation harness for a LangChain-based PDF Retrieval-Augmented Generation (RAG) pipeline. This system benchmarks response quality using **DeepEval** across four core LLM metrics (**Answer Relevancy**, **Faithfulness**, **Contextual Relevancy**, and **G-Eval Correctness**) and features an interactive **Streamlit comparison dashboard**.
 
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
 ---
 
 ## 🎯 Problem & Purpose
